@@ -1,6 +1,6 @@
-# Finding Donors for CharityML Using Supervised Learning Techniques
+## Finding Donors for CharityML Using Supervised Learning Techniques
 
-## Project Overview
+### Project Overview
 In this project, supervised learning techniques are used on data collected for the U.S. census to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause.
 
 The project include;
@@ -9,7 +9,7 @@ The project include;
 - Trying several supervised learning algorithms to see which one works best.
 - Investigating whether a candidate solution model is adequate for the problem.
 
-## Software Requirements
+### Software Requirements
 
 This project uses the following software and Python libraries:
 
@@ -20,5 +20,5 @@ This project uses the following software and Python libraries:
 - [matplotlib](http://matplotlib.org/)
 - [Jupyter Notebook](http://ipython.org/notebook.html)
 
-### Project details and code can be found in the file "finding_donors.ipynb".
+#### Project details and code can be found in the file "finding_donors.ipynb".
 
