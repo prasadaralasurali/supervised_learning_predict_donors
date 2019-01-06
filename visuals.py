@@ -55,8 +55,8 @@ def evaluate(results, accuracy, f1):
     inputs:
       - learners: a list of supervised learners
       - stats: a list of dictionaries of the statistic results from 'train_predict()'
-      - accuracy: The score for the naive predictor
-      - f1: The score for the naive predictor
+      - accuracy: The accuracy score for the naive predictor
+      - f1: The f1 score for the naive predictor
     """
   
     # Create figure
@@ -126,7 +126,7 @@ def feature_plot(importances, X_train, y_train):
     columns = X_train.columns.values[indices[:5]]
     values = importances[indices][:5]
 
-    # Creat the plot
+    # Create the plot
     fig = pl.figure(figsize = (9,5))
     pl.title("Normalized Weights for First Five Most Predictive Features", fontsize = 16)
     pl.bar(np.arange(5), values, width = 0.6, align="center", color = '#00A000', \
