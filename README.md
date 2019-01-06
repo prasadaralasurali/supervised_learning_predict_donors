@@ -8,6 +8,7 @@ The project include;
 - Data preprocessing
 - Establishing a benchmark for a solution to the problem.
 - Trying several supervised learning algorithms to see which one works best.
+- Optimizing the final chosen model
 
 ### Software Requirements
 
