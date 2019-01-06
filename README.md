@@ -4,12 +4,6 @@
 
 In this project, supervised learning techniques are used on data collected for the U.S. census to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause.
 
-The project include;
-- Data preprocessing
-- Establishing a benchmark for a solution to the problem.
-- Trying several supervised learning algorithms to see which one works best.
-- Optimizing the final chosen model
-
 ### Software Requirements
 
 This project uses the following software and Python libraries:
