@@ -8,7 +8,7 @@ In this project, supervised learning techniques are used on data collected for t
 
 This project uses the following software and Python libraries:
 
-- [Python 3.6](https://www.python.org/downloads/release/python-365/)
+- [Python 2.7](https://www.python.org/download/releases/2.7/)
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
