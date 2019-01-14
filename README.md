@@ -15,4 +15,7 @@ This project uses the following software and Python libraries:
 - [matplotlib](http://matplotlib.org/)
 - [Jupyter Notebook](http://ipython.org/notebook.html)
 
+**Note: this proejct is a part of Machine Learning Engineer Nanodegree from Udacity**
+
+
 
